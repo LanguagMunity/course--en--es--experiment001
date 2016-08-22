@@ -1,0 +1,108 @@
+[["cm"
+,"This file contains the names used where personal names"
+,"are needed in these lessons."
+,"Info source: http://www.babycenter.com/0_100-most-popular-hispanic-baby-names-of-2011_10363639.bc"
+]
+
+
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-f"],
+  "val":{
+    "en":[{"r":"Sofia"}],
+    "es":[{"r":"Sofia"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-f"],
+  "val":{
+    "en":[{"r":"Isabella"}],
+    "es":[{"r":"Isabella"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-f"],
+  "val":{
+    "en":[{"r":"Camila"}],
+    "es":[{"r":"Camila"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-f"],
+  "val":{
+    "en":[{"r":"Valentina"}],
+    "es":[{"r":"Valentina"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-f"],
+  "val":{
+    "en":[{"r":"Valeria"}],
+    "es":[{"r":"Valeria"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-f"],
+  "val":{
+    "en":[{"r":"Mariana"}],
+    "es":[{"r":"Mariana"}]
+  }
+}
+
+
+
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-m"],
+  "val":{
+    "en":[{"r":"Santiago"}],
+    "es":[{"r":"Santiago"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-m"],
+  "val":{
+    "en":[{"r":"Sebastián"}],
+    "es":[{"r":"Sebastián"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-m"],
+  "val":{
+    "en":[{"r":"Matías"}],
+    "es":[{"r":"Matías"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-m"],
+  "val":{
+    "en":[{"r":"Mateo"}],
+    "es":[{"r":"Mateo"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-m"],
+  "val":{
+    "en":[{"r":"Nicolás"}],
+    "es":[{"r":"Nicolás"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["prsn","prsn-m"],
+  "val":{
+    "en":[{"r":"Alejandro"}],
+    "es":[{"r":"Alejandro"}]
+  }
+}
+
+]

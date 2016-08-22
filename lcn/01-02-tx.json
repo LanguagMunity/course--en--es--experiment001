@@ -1,0 +1,50 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Mucho gusto.",
+  "a":"Nice to meet you."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Nice to meet you.",
+  "a":"Mucho gusto."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cuál barrio?",
+  "a":"Which neighborhood?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Which neighborhood?",
+  "a":"¿Cuál barrio?"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Mi abuelo fue Masón.",
+  "a":"My grandfather was a Freemason."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"My grandfather was a Freemason.",
+  "a":"Mi abuelo fue Masón."
+}
+
+
+
+,["cm"
+
+]]

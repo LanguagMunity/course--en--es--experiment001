@@ -1,0 +1,30 @@
+#! /usr/bin/perl
+use strict;
+use File::Basename;
+use Cwd 'realpath';
+
+my $minim = 40;
+
+my $ourdir;
+my $avail;
+
+$ourdir = dirname(dirname(realpath($0)));
+
+system("languamunity","clear-names");
+system("languamunity","lc-take",($ourdir . "/res/names.json"));
+
+$avail = `languamunity statlli deck+hand`; chomp($avail);
+while ( $avail < ( $minim - 0.5 ) )
+{
+  system("languamunity","lc-take",($ourdir . "/lcn/01-01-tx.json"));
+  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
+  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
+  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
+  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
+  $avail = `languamunity statlli deck+hand`; chomp($avail);
+  system("echo","Loading: " . $avail);
+  sleep(1);
+}
+exec("languamunity","short");
+
+

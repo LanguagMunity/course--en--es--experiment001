@@ -1,0 +1,44 @@
+[["cm"
+]
+
+
+
+,["cm"
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH",
+  "o":[
+    "ALTERNATE01"
+    ,"ALTERNATE02"
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH",
+  "o":[
+    "ALTERNATE01"
+    ,"ALTERNATE02"
+  ]
+}
+
+]]

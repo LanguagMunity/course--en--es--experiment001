@@ -1,0 +1,268 @@
+[["cm"
+,"Unit 01 - Chapter 01 - Lesson 01"]
+
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Hola.",
+  "a":"Hello."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Hello.",
+  "a":"Hola."
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo estás?",
+  "a":"How are you?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How are you?",
+  "a":"¿Cómo estás?"
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo se dice en español?",
+  "a":"How does one say it in Spanish?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How does one say it in Spanish?",
+  "a":"¿Cómo se dice en español?"
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo se podría decir que en Inglés?",
+  "a":"How would one say that in English?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How would one say that in English?",
+  "a":"¿Cómo se podría decir que en Inglés?"
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cuál es su nombre?",
+  "a":"What is your name?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"What is your name?",
+  "a":"¿Cuál es su nombre?"
+  ,"o":[
+    ["  --> formal","¿Como te llamas?"]
+  ]
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Como te llamas?",
+  "a":"What is your name?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"What is your name?",
+  "a":"¿Como te llamas?"
+  ,"o":[
+    ["  --> familiar","¿Cuál es su nombre?"]
+  ]
+}
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Mi nombre es ","*n1","/."],
+  "a":[["/My name is ","*n1","/."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Mi nombre es ","*n1","/."]]
+  ,"o":[
+    ["  --> formal"
+      ,["/Yo me llamo ","*n1","/."]
+      ,["/Me llamo ","*n1","/."]
+    ]
+  ]
+}
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Yo me llamo ","*n1","/."],
+  "a":[["/My name is ","*n1","/."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Yo me llamo ","*n1","/."]]
+  ,"o":[
+    ["  --> familiar",["/Mi nombre es ","*n1","/."]],
+    ["  --> not so concise",["/Me llamo ","*n1","/."]]
+  ]
+}
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Me llamo ","*n1","/."],
+  "a":[["/My name is ","*n1","/."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/My name is ","*n1","/."],
+  "a":[["/Me llamo ","*n1","/."]]
+  ,"o":[
+    ["  --> familiar",["/Mi nombre es ","*n1","/."]],
+    ["  --> more concisely",["/Yo me llamo ","*n1","/."]]
+  ]
+}
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Todavía estoy aprendiendo español.",
+  "a":"I am still learning Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am still learning Spanish.",
+  "a":"Todavía estoy aprendiendo español."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Estoy aprendiendo español.",
+  "a":"I am learning Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am learning Spanish.",
+  "a":"Estoy aprendiendo español."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"sí",
+  "a":"yes"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"yes",
+  "a":"sí"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"no",
+  "a":"no"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"no",
+  "a":"no"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Gracias.",
+  "a":"Thank you."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Thank you.",
+  "a":"Gracias."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Por favor.",
+  "a":"Please."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Please.",
+  "a":"Por favor."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Lo siento.",
+  "a":"I'm sorry."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I'm sorry.",
+  "a":"Lo siento."
+}
+
+
+
+
+
+
+,["cm"
+
+
+
+]]
