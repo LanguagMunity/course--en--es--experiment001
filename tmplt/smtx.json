@@ -4,6 +4,7 @@
 
 
 ,["cm"
+,"The following templates are for the two kinds of simple text"
 
 
 ,{
@@ -24,21 +25,70 @@
   "typ":"smtx",
   "lang":["es","en"],
   "q":"SPANISH",
-  "a":"ENGLISH",
-  "o":[
-    "ALTERNATE01"
-    ,"ALTERNATE02"
+  "a":"ENGLISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
   ]
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
   "q":"ENGLISH",
-  "a":"SPANISH",
-  "o":[
-    "ALTERNATE01"
-    ,"ALTERNATE02"
+  "a":"SPANISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
   ]
 }
 
-]]
+]
+
+
+,["cm"
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/SPANISH01","*n1","/SPANISH01"],
+  "a":[["/ENGLISH01","*n1","/ENGLISH02"]]
+  ,"o":[
+    ["  --> notthis",["/ENGLISH01A","*n1","/ENGLISH02A"]]
+    ,["  --> notthat",["/ENGLISH01B","*n1","/ENGLISH02B"]]
+    ,["  --> notthat",["/ENGLISH01C","*n1","/ENGLISH02C"]]
+  ]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/ENGLISH01","*n1","/ENGLISH02"],
+  "a":[["/SPANISH01","*n1","/SPANISH01"]]
+  ,"o":[
+    ["  --> notthis",["/SPANISH01A","*n1","/SPANISH02A"]]
+    ,["  --> notthat",["/SPANISH01B","*n1","/SPANISH02B"]]
+    ,["  --> notthat",["/SPANISH01C","*n1","/SPANISH02C"]]
+  ]
+}
+
+]
+
+]

@@ -44,6 +44,123 @@
 }
 
 
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo estuvo tu fin de semana?",
+  "a":"How was your weekend?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How was your weekend?",
+  "a":"¿Cómo estuvo tu fin de semana?"
+}
+
+,["cm"
+,"I had to refer to the following document:"
+,"http://www.spanishdict.com/answers/141620/when-to-use-fueestuvo"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo estuvo tu semana?",
+  "a":"How was your week?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How was your week?",
+  "a":"¿Cómo estuvo tu semana?"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Soy malo con los nombres.",
+  "a":"I am bad with names."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am bad with names.",
+  "a":"Soy malo con los nombres."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Soy muy malo con los nombres.",
+  "a":"I am very bad with names."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am very bad with names.",
+  "a":"Soy muy malo con los nombres."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Ya te vas?",
+  "a":"Are you leaving now?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Are you leaving now?",
+  "a":"¿Ya te vas?"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"código abierto",
+  "a":"open source"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"open source",
+  "a":"código abierto"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cuáles planes tienes para el fin de semana?",
+  "a":"What plans do you have for the weekend?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"What plans do you have for the weekend?",
+  "a":"¿Cuáles planes tienes para el fin de semana?"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Depende mucho en mi familia.",
+  "a":"It depends a lot on my family."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"It depends a lot on my family.",
+  "a":"Depende mucho en mi familia."
+}
+
+
 
 ,["cm"
 

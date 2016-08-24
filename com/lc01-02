@@ -18,9 +18,6 @@ while ( $avail < ( $minim - 0.5 ) )
 {
   system("languamunity","lc-take",($ourdir . "/lcn/01-01-tx.json"));
   system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
-  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
-  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
-  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
   $avail = `languamunity statlli deck+hand`; chomp($avail);
   system("echo","Loading: " . $avail);
   sleep(1);
