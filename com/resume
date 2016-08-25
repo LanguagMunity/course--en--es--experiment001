@@ -1,5 +1,5 @@
 #! /usr/bin/perl
 
-exec("languamunity","resume","-time","10","0");
+exec("languamunity","resume","-time","6","0");
 
 

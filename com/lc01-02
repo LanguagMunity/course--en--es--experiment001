@@ -3,7 +3,7 @@ use strict;
 use File::Basename;
 use Cwd 'realpath';
 
-my $pre_minim = 80;
+my $pre_minim = 50;
 
 my $minim;
 my $ourdir;
