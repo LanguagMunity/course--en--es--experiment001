@@ -3,25 +3,40 @@ use strict;
 use File::Basename;
 use Cwd 'realpath';
 
-my $minim = 40;
+my $pre_minim = 60;
 
+my $minim;
 my $ourdir;
 my $avail;
+
+($minim) = @ARGV;
+if ( $minim eq '' ) { $minim = $pre_minim; }
 
 $ourdir = dirname(dirname(realpath($0)));
 
 system("languamunity","clear-names");
 system("languamunity","lc-take",($ourdir . "/res/names.json"));
 
-$avail = `languamunity statlli deck+hand`; chomp($avail);
-while ( $avail < ( $minim - 0.5 ) )
+sub check_avail {
+  my $lc_avail;
+  $lc_avail = `languamunity statlli deck+hand`;
+  chomp($lc_avail);
+  $avail = $lc_avail;
+  return $lc_avail;
+}
+while ( &check_avail() < ( $minim - 0.5 ) )
 {
-  system("languamunity","lc-take",($ourdir . "/lcn/01-01-tx.json"));
-  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
-  $avail = `languamunity statlli deck+hand`; chomp($avail);
+  &each_round();
   system("echo","Loading: " . $avail);
   sleep(1);
 }
-exec("languamunity","short");
+exec("languamunity","short","-time",12,0);
+
+
+
+sub each_round {
+  system("languamunity","lc-take",($ourdir . "/lcn/01-01-tx.json"));
+  system("languamunity","lc-take",($ourdir . "/lcn/01-02-tx.json"));
+}
 
 
