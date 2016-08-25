@@ -30,7 +30,7 @@ while ( &check_avail() < ( $minim - 0.5 ) )
   system("echo","Loading: " . $avail);
   sleep(1);
 }
-exec("languamunity","short","-time",12,0);
+exec(($ourdir . "/com/resume"));
 
 
 
