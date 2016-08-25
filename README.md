@@ -16,3 +16,7 @@ Also - even contents of this package that will be incorporated into
 a live-production package once LanguaMunity is up and running may
 not necessarily be in the same location in this package as they
 will be in the final package.
+
+## Thanks
+Though I may not succeed, I am at least
+[doing my best to thank those who are helping this effort](docs/thanks.md).
