@@ -30,7 +30,7 @@ while ( &check_avail() < ( $minim - 0.5 ) )
   system("echo","Loading: " . $avail);
   sleep(1);
 }
-exec(($ourdir . "/com/resume"));
+exec("perl",($ourdir . "/com/resume"));
 
 
 

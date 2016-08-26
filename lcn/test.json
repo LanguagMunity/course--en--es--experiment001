@@ -1,0 +1,46 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"software libre",
+  "a":"free software"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"free software",
+  "a":"software libre"
+  ,"o":[
+    ["  --> Here we mean \"free\" as in \"free speech\""
+      ,"software gratis"
+    ]
+  ]
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"software gratis",
+  "a":"free software"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"free software",
+  "a":"software gratis"
+  ,"o":[
+    ["  --> Here we mean \"free\" as in \"free beer\""
+      ,"software libre"
+    ]
+  ]
+}
+
+
+
+,["cm"
+
+]]
