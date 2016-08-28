@@ -53,7 +53,27 @@ To open a new terminal window when the Terminal application is already open,
 click on "Shell" in the menu bar, then select "New Window" >
 "New Window with Settings - Basic".
 
-## Step 4 - Make sure the JSON CPAN module for PERL is installed
+## Step 4 - Make Sure that your 'bin' Directory is On the Execution Path
+
+Inside your home directory, there is a file called ".bash_profile".
+
+Now that you have installed Text Wrangler is installed (as of Step 1) assuming that you have also installed
+the __edit__ command as well, you can open that file in Text Rangler by typing (or copy/pasting) the following
+command into the terminal (which you opened in Step 3):
+
+    edit ~/.bash_profile
+
+Once Text Wrangler has opened the file, make sure that the following two lines are added
+near the beginning of the file.
+
+    PATH="${HOME}/bin:${PATH}"
+    export PATH
+
+Now, save the changes you made to the file, and close the editing window.
+Then, close all terminal windows - and open a new one so that the changes
+you just made can take effect.
+
+## Step 5 - Make sure the JSON CPAN module for PERL is installed
 To do this step, you will need to create a PERL script that does all
 the testing and, if necessary, all the installation - and then run that script.
 
@@ -105,3 +125,7 @@ Then, run the script by entering the following command in the terminal.
 Upon doing this, if you are prompted for a password,
 enter the same password that you enter to log on to your
 Mac.
+
+# Step 6 - Install the Software
+
+
