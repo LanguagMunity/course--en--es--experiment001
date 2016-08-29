@@ -1,0 +1,39 @@
+[["cm"
+]
+
+
+,["cm"
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/SPANISH01","*n1","/SPANISH01"],
+  "a":[["/ENGLISH01","*n1","/ENGLISH02"]]
+  ,"o":[
+    ["  --> notthis",["/ENGLISH01A","*n1","/ENGLISH02A"]]
+    ,["  --> notthat",["/ENGLISH01B","*n1","/ENGLISH02B"]]
+    ,["  --> notthat",["/ENGLISH01C","*n1","/ENGLISH02C"]]
+  ]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/ENGLISH01","*n1","/ENGLISH02"],
+  "a":[["/SPANISH01","*n1","/SPANISH01"]]
+  ,"o":[
+    ["  --> notthis",["/SPANISH01A","*n1","/SPANISH02A"]]
+    ,["  --> notthat",["/SPANISH01B","*n1","/SPANISH02B"]]
+    ,["  --> notthat",["/SPANISH01C","*n1","/SPANISH02C"]]
+  ]
+}
+
+]
+
+]

@@ -199,7 +199,36 @@
 }
 
 
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"No he ido.",
+  "a":"I have not gone."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I have not gone.",
+  "a":"No he ido."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Yo no estaba allí.",
+  "a":"I wasn't there."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I wasn't there.",
+  "a":"Yo no estaba allí."
+}
+
+
 
 ,["cm"
+
 
 ]]

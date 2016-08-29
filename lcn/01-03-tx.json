@@ -1,0 +1,161 @@
+[["cm"
+]
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Estoy de acuerdo, pero ","*n1","/ no está de acuerdo."],
+  "a":[["/I agree, but ","*n1","/ disagrees."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/I agree, but ","*n1","/ disagrees."],
+  "a":[["/Estoy de acuerdo, pero ","*n1","/ no está de acuerdo."]]
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Mi casa es pequeña pero cómoda.",
+  "a":"My house is small but comfortable."
+  ,"credit":["https://en.wiktionary.org/wiki/pero#Spanish",
+  "Under the Creative Commons Share-Alike License,",
+  "  https://creativecommons.org/licenses/by-sa/3.0/"]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"My house is small but comfortable.",
+  "a":"Mi casa es pequeña pero cómoda."
+  ,"credit":["https://en.wiktionary.org/wiki/pero#Spanish",
+  "Under the Creative Commons Share-Alike License,",
+  "  https://creativecommons.org/licenses/by-sa/3.0/"]
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Disculpe me.",
+  "a":"Excuse me."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Excuse me.",
+  "a":"Disculpe me."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Muchas gracias.",
+  "a":"Thank you very much."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Thank you very much.",
+  "a":"Muchas gracias."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Él es el experto.",
+  "a":"He is the expert."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"He is the expert.",
+  "a":"Él es el experto."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Ella es la experta.",
+  "a":"She is the expert."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"She is the expert.",
+  "a":"Ella es la experta."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Es esto correcto?",
+  "a":"Is this correct?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Is this correct?",
+  "a":"¿Es esto correcto?"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Entiendo un poco.",
+  "a":"I understand a little."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I understand a little.",
+  "a":"Entiendo un poco."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Mucho gusto verte.",
+  "a":"It's nice to see you."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"It's nice to see you.",
+  "a":"Mucho gusto verte."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Cómo has estado?",
+  "a":"How have you been?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"How have you been?",
+  "a":"¿Cómo has estado?"
+}
+
+
+
+,["cm"
+
+
+]]

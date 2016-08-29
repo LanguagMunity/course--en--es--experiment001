@@ -1,0 +1,25 @@
+[{
+  "typ":"typ"
+  ,"ftyp":"proto"
+}
+
+,{
+  "typ":"pair"
+  ,"grp":["en","es"]
+  ,"lng":{
+    "en":"We need a plan that works.",
+    "es":"Necesitamos un plan que funcione."
+  }
+}
+
+,{
+  "typ":"pair"
+  ,"grp":["en","es"]
+  ,"lng":{
+    "en":"Why are you here?",
+    "es":"¿Por qué estás aquí?"
+  }
+}
+
+
+]
