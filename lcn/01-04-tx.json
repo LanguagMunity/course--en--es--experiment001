@@ -1,0 +1,149 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"uno",
+  "a":"one"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"one",
+  "a":"uno"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"dos",
+  "a":"two"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"two",
+  "a":"dos"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"tres",
+  "a":"three"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"three",
+  "a":"tres"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"cuatro",
+  "a":"four"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"four",
+  "a":"cuatro"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"cinco",
+  "a":"five"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"five",
+  "a":"cinco"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"seis",
+  "a":"six"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"six",
+  "a":"seis"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"siete",
+  "a":"seven"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"seven",
+  "a":"siete"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"ocho",
+  "a":"eight"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"eight",
+  "a":"ocho"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"nueve",
+  "a":"nine"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"nine",
+  "a":"nueve"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"diez",
+  "a":"ten"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ten",
+  "a":"diez"
+}
+
+
+
+,["cm"
+
+
+]]
