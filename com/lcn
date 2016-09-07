@@ -87,7 +87,7 @@ $pre_minim = 5;
   my $lc_targo;
   my $lc_divisor;
   
-  $lc_max = 20;
+  $lc_max = 60;
   $lc_targo = 4;
   
   $lc_seto = int(($lc_max / 2) + 0.4);

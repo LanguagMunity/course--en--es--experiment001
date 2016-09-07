@@ -1,3 +1,6 @@
 .DS_Store
 /scratch
 /memory
+/tmp
+/ins-opt-code
+/build

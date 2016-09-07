@@ -1,0 +1,102 @@
+[["cm"
+]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿No hay una palabra para todo eso?",
+  "a":"Isn't there a word for that?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Isn't there a word for that?",
+  "a":"¿No hay una palabra para todo eso?"
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"No fue a propósito tampoco.",
+  "a":"It wasn't on purpose either."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"It wasn't on purpose either.",
+  "a":"No fue a propósito tampoco."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"No fue a propósito.",
+  "a":"It wasn't on purpose."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"It wasn't on purpose.",
+  "a":"No fue a propósito."
+}
+
+
+,["cm"
+,"This next duo will eventually be moved to"
+,"one of the earlier lessons."]
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero aprender español.",
+  "a":"I want to learn Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want to learn Spanish.",
+  "a":"Quiero aprender español."
+}
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/¿Lo viste a ","*n1","/?"],
+  "a":[["/Have you seen ","*n1","/?"]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["prsn",[["r","n1"]]]
+  ],
+  "q":["/Have you seen ","*n1","/?"],
+  "a":[["/¿Lo viste a ","*n1","/?"]]
+}
+
+
+
+,["cm"
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH"
+}
+
+
+]]
