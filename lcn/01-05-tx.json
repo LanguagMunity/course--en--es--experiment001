@@ -44,23 +44,6 @@
 }
 
 
-,["cm"
-,"This next duo will eventually be moved to"
-,"one of the earlier lessons."]
-,{
-  "typ":"smtx",
-  "lang":["es","en"],
-  "q":"Quiero aprender español.",
-  "a":"I want to learn Spanish."
-}
-,{
-  "typ":"smtx",
-  "lang":["en","es"],
-  "q":"I want to learn Spanish.",
-  "a":"Quiero aprender español."
-}
-
-
 ,{
   "typ":"subst",
   "lang":["es","en"],
