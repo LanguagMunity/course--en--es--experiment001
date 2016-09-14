@@ -1,0 +1,129 @@
+[["cm"]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"¿Dónde están las bolsas?",
+  "a":"Where are the bags?"
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"Where are the bags?",
+  "a":"¿Dónde están las bolsas?"
+}
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["num-2-20",[["rl","n1"]]]
+  ],
+  "q":["/Quiero ","*n1","/ aguacates."],
+  "a":[["/I want ","*n1","/ avocados."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["num-2-20",[["rl","n1"]]]
+  ],
+  "q":["/I want ","*n1","/ avocados."],
+  "a":[["/Quiero ","*n1","/ aguacates."]]
+}
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["num-2-30",[["rl","n1"]]]
+  ],
+  "q":["/Quiero ","*n1","/ manzanas."],
+  "a":[["/I want ","*n1","/ apples."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["num-2-30",[["rl","n1"]]]
+  ],
+  "q":["/I want ","*n1","/ apples."],
+  "a":[["/Quiero ","*n1","/ manzanas."]]
+}
+
+
+,["cm"
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
+  ]
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"SPANISH",
+  "a":"ENGLISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"ENGLISH",
+  "a":"SPANISH"
+  ,"o":[
+    ["WRONGNT01"
+      ,"WRONG01A"
+      ,"WRONG01B"
+    ]
+    ,["WRONGNT02"
+      ,"WRONG02A"
+      ,"WRONG02B"
+    ]
+  ]
+}
+
+
+]]

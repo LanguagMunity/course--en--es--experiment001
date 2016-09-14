@@ -121,6 +121,7 @@ $ourfile = $ourdir . '/comres/sh/lcn-' . $ourlcn . '.sh';
 # Make sure the names are set right ....
 system("languamunity","clear-names",'-f',$our_quiz_file);
 system("languamunity","qsp-take",'-to',$our_quiz_file,'-in',($ourdir . "/res/names.json"));
+system("languamunity","qsp-take",'-to',$our_quiz_file,'-in',($ourdir . "/res/num01.json"));
 
 
 if ( !( -f $ourfile ) ) { die ( "\nNo such lesson: " . $ourlcn . ":\n\n" ); }

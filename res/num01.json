@@ -1,0 +1,80 @@
+[["cm"
+,"This file contains the plural numbers 2 through 10 for inclusion into"
+,"number-sensitive cards - such as those for the language of the market."
+]
+
+
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"two"},{"ru":"Two"}],
+    "es":[{"rl":"dos"},{"ru":"Dos"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"three"},{"ru":"Three"}],
+    "es":[{"rl":"tres"},{"ru":"Tres"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"four"},{"ru":"Four"}],
+    "es":[{"rl":"cuatro"},{"ru":"Cuatro"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"five"},{"ru":"Five"}],
+    "es":[{"rl":"cinco"},{"ru":"Cinco"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"six"},{"ru":"Six"}],
+    "es":[{"rl":"seis"},{"ru":"Seis"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"seven"},{"ru":"Seven"}],
+    "es":[{"rl":"siete"},{"ru":"Siete"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"eight"},{"ru":"Eight"}],
+    "es":[{"rl":"ocho"},{"ru":"Ocho"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"nine"},{"ru":"Nine"}],
+    "es":[{"rl":"nueve"},{"ru":"Nueve"}]
+  }
+}
+,{
+  "typ":"name",
+  "ctg":["num-pl","num-2-10","num-2-20","num-2-30","num-2-50","num-2-100"],
+  "val":{
+    "en":[{"rl":"ten"},{"ru":"Ten"}],
+    "es":[{"rl":"diez"},{"ru":"Diez"}]
+  }
+}
+
+]
