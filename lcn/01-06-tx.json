@@ -145,6 +145,70 @@
 }
 
 
+,["cm","START: lima = lime"]
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero una lima.",
+  "a":"I want a lime."
+  ,"o":[
+    ["  --> By article please"
+      ,"I want one lime."
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want a lime.",
+  "a":"Quiero una lima."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero una lima.",
+  "a":"I want one lime."
+  ,"o":[
+    ["  --> By number please"
+      ,"I want a lime."
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want one lime.",
+  "a":"Quiero una lima."
+}
+
+
+,{
+  "typ":"subst",
+  "lang":["es","en"],
+  "pre":[
+    ["num-2-30",[["rl","n1"]]]
+  ],
+  "q":["/Quiero ","*n1","/ limas."],
+  "a":[["/I want ","*n1","/ limes."]]
+}
+,{
+  "typ":"subst",
+  "lang":["en","es"],
+  "pre":[
+    ["num-2-30",[["rl","n1"]]]
+  ],
+  "q":["/I want ","*n1","/ limes."],
+  "a":[["/Quiero ","*n1","/ limas."]]
+}
+
+
+,["cm","END: lima = lime"]
+
+
 ,["cm"
 
 
