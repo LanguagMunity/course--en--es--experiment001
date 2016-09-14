@@ -55,75 +55,97 @@
 }
 
 
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Estoy listo.",
+  "a":"I am ready."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I am ready.",
+  "a":"Estoy listo."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero un aguacate.",
+  "a":"I want an avocado."
+  ,"o":[
+    ["  --> By article please"
+      ,"I want one avocado."
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want an avocado.",
+  "a":"Quiero un aguacate."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero un aguacate.",
+  "a":"I want one avocado."
+  ,"o":[
+    ["  --> By number please"
+      ,"I want an avocado."
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want one avocado.",
+  "a":"Quiero un aguacate."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero una manzana.",
+  "a":"I want an apple."
+  ,"o":[
+    ["  --> By article please"
+      ,"I want one apple."
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want an apple.",
+  "a":"Quiero una manzana."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Quiero una manzana.",
+  "a":"I want one apple."
+  ,"o":[
+    ["  --> By number please"
+      ,"I want an apple."
+    ]
+  ]
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I want one apple.",
+  "a":"Quiero una manzana."
+}
+
+
 ,["cm"
-
-
-,{
-  "typ":"smtx",
-  "lang":["es","en"],
-  "q":"SPANISH",
-  "a":"ENGLISH"
-  ,"o":[
-    ["WRONGNT01"
-      ,"WRONG01A"
-      ,"WRONG01B"
-    ]
-    ,["WRONGNT02"
-      ,"WRONG02A"
-      ,"WRONG02B"
-    ]
-  ]
-}
-,{
-  "typ":"smtx",
-  "lang":["en","es"],
-  "q":"ENGLISH",
-  "a":"SPANISH"
-  ,"o":[
-    ["WRONGNT01"
-      ,"WRONG01A"
-      ,"WRONG01B"
-    ]
-    ,["WRONGNT02"
-      ,"WRONG02A"
-      ,"WRONG02B"
-    ]
-  ]
-}
-
-
-,{
-  "typ":"smtx",
-  "lang":["es","en"],
-  "q":"SPANISH",
-  "a":"ENGLISH"
-  ,"o":[
-    ["WRONGNT01"
-      ,"WRONG01A"
-      ,"WRONG01B"
-    ]
-    ,["WRONGNT02"
-      ,"WRONG02A"
-      ,"WRONG02B"
-    ]
-  ]
-}
-,{
-  "typ":"smtx",
-  "lang":["en","es"],
-  "q":"ENGLISH",
-  "a":"SPANISH"
-  ,"o":[
-    ["WRONGNT01"
-      ,"WRONG01A"
-      ,"WRONG01B"
-    ]
-    ,["WRONGNT02"
-      ,"WRONG02A"
-      ,"WRONG02B"
-    ]
-  ]
-}
 
 
 ]]
