@@ -21,5 +21,38 @@
   ,"txtres":["lcn/01-02-tx.json"]
 }
 
+,{
+  "id":"0103"
+  ,"title":"Still More Conversation"
+  ,"dscrip":"Your journey of learning more conversational language-samples\ncontinues."
+  ,"prereq":["0102"]
+  ,"txtres":["lcn/01-03-tx.json"]
+}
+
+,{
+  "id":"0104"
+  ,"title":"Numbers (part one)"
+  ,"dscrip":"Let's start learning to count in Spanish."
+  ,"prereq":["0101"]
+  ,"resrc":["res/num01.json"]
+  ,"txtres":["lcn/01-04-tx.json"]
+}
+
+,{
+  "id":"0105"
+  ,"title":"Still More Conversation (again)"
+  ,"dscrip":"Your journey of learning more conversational language-samples\ncontinues."
+  ,"prereq":["0103"]
+  ,"txtres":["lcn/01-05-tx.json"]
+}
+
+,{
+  "id":"0106"
+  ,"title":"At the Market"
+  ,"dscrip":"Let's prepare to do some grocery shopping - at Philadelphia's historic\nItalian Market"
+  ,"prereq":["0104"]
+  ,"txtres":["lcn/01-06-tx.json"]
+}
+
 ]
 }
