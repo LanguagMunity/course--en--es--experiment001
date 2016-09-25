@@ -1,7 +1,18 @@
 {
-"metares":[
-  "res/names.json"
-]
+"info":{
+	"title":"EXPERIMENTAL module - Spanish for English Speakers"
+,	"mdtyp":"main"
+,	"ref":{
+		"langcode":"en"
+	,	"iclang":"en"
+	,	"lngname":"English"
+	}
+,	"targ":{
+		"langcode":"es"
+	,	"iclang":"es"
+	,	"lngname":"Spanish"
+	}
+}
 ,"lcnx":[
 
 {

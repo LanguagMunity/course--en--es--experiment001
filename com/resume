@@ -1,5 +1,0 @@
-#! /usr/bin/perl
-
-exec("languamunity","resume",'-quizfile',$ENV{'LANGDRILL_X_QUIZ_FILE'},"-time","6","0");
-
-
