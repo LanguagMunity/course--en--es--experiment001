@@ -67,21 +67,21 @@
   "q":"What is your name?",
   "a":"¿Cuál es su nombre?"
   ,"o":[
-    ["  --> formal","¿Como te llamas?"]
+    ["  --> formal","¿Cómo te llamas?"]
   ]
 }
 
 ,{
   "typ":"smtx",
   "lang":["es","en"],
-  "q":"¿Como te llamas?",
+  "q":"¿Cómo te llamas?",
   "a":"What is your name?"
 }
 ,{
   "typ":"smtx",
   "lang":["en","es"],
   "q":"What is your name?",
-  "a":"¿Como te llamas?"
+  "a":"¿Cómo te llamas?"
   ,"o":[
     ["  --> familiar","¿Cuál es su nombre?"]
   ]
@@ -291,6 +291,20 @@
   "lang":["en","es"],
   "q":"I want to learn Spanish.",
   "a":"Quiero aprender español."
+}
+
+
+,{
+  "typ":"smtx",
+  "lang":["es","en"],
+  "q":"Entiendo español.",
+  "a":"I understand Spanish."
+}
+,{
+  "typ":"smtx",
+  "lang":["en","es"],
+  "q":"I understand Spanish.",
+  "a":"Entiendo español."
 }
 
 
